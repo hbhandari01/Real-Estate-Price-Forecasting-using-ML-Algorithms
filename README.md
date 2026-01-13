@@ -1,5 +1,5 @@
 # Real Estate Price Forecasting using ML Algorithms
-This project predicts 🏡 House Prices using Machine Learning models. We preprocess housing data, perform EDA, apply different regression models, and finally predict house prices.
+This project predicts 🏡 House Prices using Machine Learning models/algorithms. We preprocess the housing data, perform EDA, apply different regression models, and finally predict the house prices.
 
 📌 Project Workflow
 

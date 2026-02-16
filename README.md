@@ -1,5 +1,5 @@
 # Real Estate Price Forecasting using ML Algorithms
-This project predicts 🏡 House Prices using Machine Learning models/algorithms. We preprocess the housing data, perform EDA, apply different regression models, and finally predict the house prices.
+This project predicts House Prices using Machine Learning models/algorithms. We preprocess the housing data, perform EDA, apply different regression models, and finally predict the house prices.
 
 📌 Project Workflow
 
@@ -9,7 +9,7 @@ Exploratory Data Analysis (EDA)
 
 Model Building: Linear Regression, Random Forest Regressor
 
-Evaluation using R², MAE, MSE
+Evaluation done using R², MAE, MSE
 
 Final Prediction: ₹ 4,69,770 (Random Forest Regressor, log-transformed back to original scale)
 

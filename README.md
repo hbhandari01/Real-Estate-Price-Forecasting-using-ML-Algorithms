@@ -33,5 +33,4 @@ Use XGBoost / Gradient Boosting
 
 📌 Author
 
-👤 Himanshu Bhandari
-🚀 Data Analyst 
+👤 Himanshu Bhandari | Data Analyst 

@@ -13,7 +13,7 @@ Evaluation done using R², MAE, MSE
 
 Final Prediction: ₹ 4,69,770 (Random Forest Regressor, log-transformed back to original scale)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Python (Pandas, NumPy, Scikit-learn)
 
@@ -31,7 +31,8 @@ Predicted House Price: ₹ 4,69,770
 
 Use XGBoost / Gradient Boosting
 
-📌 Author
+## Author
 
 Himanshu Bhandari
+
 Data Analyst & Data Science Enthusiast
